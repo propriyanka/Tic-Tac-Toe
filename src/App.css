@@ -1,0 +1,24 @@
+body {
+  background-color: tomato;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.board-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.board-container {
+  margin: 20px;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 400;
+  margin: 0;
+  text-align: center;
+}
